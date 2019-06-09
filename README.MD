@@ -8,6 +8,12 @@ I need to run
 
 Form the cloned solo repository https://github.com/solo-system/solo within the imgTools folder
 
+Then within the imgTools folder it creates a virtual image of the folders to modify them such as this one
+
+```
+/home/derek/Documents/Solo/solo/imgTools/vroot/boot/solo
+```
+
 ### Paths that already have been modified
 
 added the file /home/amon/amon/mics/soundblasterXFigoPro.conf
