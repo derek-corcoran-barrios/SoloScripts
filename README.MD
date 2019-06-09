@@ -1,3 +1,13 @@
+## To start working with and modify the sosi OS 
+
+I need to run
+
+```
+ ./img-mount.sh /home/derek/Desktop/sosi-2018-10-23.img 
+``` 
+
+Form the cloned solo repository https://github.com/solo-system/solo within the imgTools folder
+
 ### Paths that already have been modified
 
 added the file /home/amon/amon/mics/soundblasterXFigoPro.conf
